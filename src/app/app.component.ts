@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { LandingPageComponent } from './pages/landing-page/landing-page.component';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
